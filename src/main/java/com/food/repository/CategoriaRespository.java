@@ -6,5 +6,6 @@ import com.food.entity.Categoria;
 
 public interface CategoriaRespository extends CrudRepository<Categoria, Long>{
 
-		
+	
+	
 }
